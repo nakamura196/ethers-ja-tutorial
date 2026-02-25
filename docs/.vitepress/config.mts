@@ -26,7 +26,7 @@ export default defineConfig({
       },
     ],
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/nakamura/ethers-ja-tutorial' },
+      { icon: 'github', link: 'https://github.com/nakamura196/ethers-ja-tutorial' },
     ],
     outline: { level: [2, 3], label: '目次' },
     docFooter: { prev: '前のページ', next: '次のページ' },

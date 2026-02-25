@@ -10,7 +10,7 @@ hero:
       link: /01-setup
     - theme: alt
       text: GitHub
-      link: https://github.com/nakamura/ethers-ja-tutorial
+      link: https://github.com/nakamura196/ethers-ja-tutorial
 features:
   - title: 環境構築
     details: Node.js と ethers.js のインストール
