@@ -1,0 +1,30 @@
+{
+  "name": "ethers-ja-tutorial",
+  "version": "1.0.0",
+  "description": "ethers.js v6 日本語チュートリアル",
+  "type": "module",
+  "scripts": {
+    "example:connect": "node examples/01-connect.mjs",
+    "example:wallet": "node examples/02-wallet.mjs",
+    "example:balance": "node examples/03-balance.mjs",
+    "example:contract": "node examples/04-contract.mjs",
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.0",
+    "ethers": "^6.13.0"
+  },
+  "keywords": [
+    "ethereum",
+    "ethers",
+    "tutorial",
+    "japanese",
+    "日本語"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "vitepress": "^1.6.4"
+  }
+}
